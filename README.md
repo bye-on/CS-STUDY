@@ -15,7 +15,7 @@
 # 🎁 규칙
 - 매주 각자 공부가 필요한 주제를 선정 후 학습
 - 학습한 주제를 `.md` 파일로 작성
-- 대주제 내에서 질문 3개 뽑아서 [노션](https://stellar-scraper-445.notion.site/Notion-299cf2fed75080728a83c2673435ae28?source=copy_link)에 작성하기 (본인 소주제 제외)
+- 대주제 내에서 질문 3개 뽑아서 [노션](https://www.notion.so/CS-Study-29fcf2fed7508027b384c973132c3698?source=copy_link)에 작성하기 (본인 소주제 제외)
   - ex) 보고 궁금한 점, 발표 관련 질문, 면접 예상 질문 ...
 
 ---
