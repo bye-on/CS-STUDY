@@ -1,6 +1,6 @@
 # MVP 패턴
 
-![image.png](/img/image%201.png)
+![image.png](./img/image2.png)
 
 뷰와 프레젠터는 일대일 관계이기 때문에 MVC 패턴보다 더 강한 결합을 지닌 디자인 패턴이라고 볼 수 있다. 
 

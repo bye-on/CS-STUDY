@@ -1,8 +1,8 @@
 # MVC 패턴
 
-![ModelViewControllerDiagram.png](/img/ModelViewControllerDiagram.png)
+![ModelViewControllerDiagram.png](./img/ModelViewControllerDiagram.png)
 
-![image.png](/img/image.png)
+![image.png](./img/image.png)
 
 컨트롤러(controller)는 하나 이상의 모델과 하나 이상의 뷰를 잇는 다리 역할을 하며 이벤트 등 메인 로직을 담당한다. 또한 모델과 뷰의 생명주기를 관리하며, 모델이나 뷰의 변경 통지를 받으면 이를 해석하여 각각의 구성 요소에 해당 내용에 대해 알려준다. 
 

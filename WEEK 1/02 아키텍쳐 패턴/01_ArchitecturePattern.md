@@ -19,9 +19,9 @@ MVC, MCP, MVVM 패턴에 대해 알아보자.
 
 ## 아키텍쳐 패턴의 종류
 
-- [MVC 패턴](/02%20MVC.md)
-- [MVP 패턴](/03%20MVP.pdf)
-- [MVVM 패턴](/04%20MVVM.pdf)
+- [MVC 패턴](/02_MVC.md)
+- [MVP 패턴](/03_MVP.md)
+- [MVVM 패턴](/04_MVVM.md)
 
 
 ---
