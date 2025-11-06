@@ -7,11 +7,16 @@
 개방-폐쇄의 원칙 : 확장에 있어서는 열려 있어야 하며, 수정에 있어서는 닫혀 있어야 한다.  
 즉, 코드를 수정하지 않아도 모듈의 기능을 확장하거나 변경 할 수 있어야 한다.  
   
-결합도가 높다면 코드를 수정했을 때 다른 클래스에 주는 영향이 크다.  
-예를 들어 Product의 생성자를 바꾼다면 각각의 User 클래스에 있는 모든 Product 객체의 생성자를 변경해 주어야 한다.  
+결합도가 높다면 코드를 수정했을 때 다른 클래스에 주는 영향이 크다.
 
-팩토리 패턴을 적용하면 User 클래스 내부에서 Product 객체를 직접 생성하지 않는다.  
-Product의 생성자가 변경된다면? Factory()의 getInstance() 메소드 내부에 있는 Product 생성자만 변경 시켜주면 된다.
+예를 들어 Product의 생성자를 바꾼다면 각각의 User 클래스에 있는 모든 Product 객체의 생성자를 변경해 주어야 한다.  
+![FactoryPattern](./image/FactoryPattern.png)
+
+팩토리 패턴을 적용하면 User 클래스 내부에서 Product 객체를 직접 생성하지 않는다. 
+![FactoryPattern](./image/FactoryPattern1.png)  
+
+#### Product의 생성자가 변경된다면?  
+Factory()의 getInstance() 메소드 내부에 있는 Product 생성자만 변경 시켜주면 된다.
 
 ### 사용 목적
 1. 객체 생성 로직 캡슐화
