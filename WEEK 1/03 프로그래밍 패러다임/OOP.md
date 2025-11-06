@@ -10,7 +10,7 @@
 > 절차지향, 객체지향, 함수형 크게 3가지의 관점으로 나누어지게 된다.
 > 
 
-![image.png](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%202a11b16048c28085817ce1fa593136c0/image.png)
+![image.png](./oop/image.png)
 
 ---
 
@@ -397,7 +397,7 @@ class BankAccount {
 > 자신보다 변하기 쉬운 것에 의존하던 것을 추상화된 인터페이스나 상위 클래스를 두어 변하기 쉬운 것의 변화에 영향받지 않게 하는 원칙
 > 
 
-[모든 개발자가 알아야 할  SOLID 의 진실 혹은 거짓](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%202a11b16048c28085817ce1fa593136c0/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EC%95%8C%EC%95%84%EC%95%BC%20%ED%95%A0%20SOLID%20%EC%9D%98%20%EC%A7%84%EC%8B%A4%20%ED%98%B9%EC%9D%80%20%EA%B1%B0%EC%A7%93%202a21b16048c280ba8d34c3c476278636.md)
+[모든 개발자가 알아야 할  SOLID 의 진실 혹은 거짓](./oop/solid.md)
 
 ---
 
