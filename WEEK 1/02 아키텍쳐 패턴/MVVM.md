@@ -1,6 +1,6 @@
 # MVVM 패턴
 
-![image.png](./img/image2.png)
+![MVVMPattern.png](./image/MVVMPattern.png)
 
 뷰모델은 뷰를 더 추상화한 계층이며, MVC 패턴과는 다르게 커맨드와 데이터 바인딩을 가지는 것이 특징이다. 뷰와 뷰모델 사이의 양방향 데이터 바인딩을 지원하며 UI를 별도의 코드 수정 없이 재사용할 수 있고 단위 테스팅하기 쉽다는 장점이 있다.
 
