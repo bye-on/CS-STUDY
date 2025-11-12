@@ -8,10 +8,10 @@
 - [옵저버 패턴](./01%20디자인%20패턴/ObserverPattern.md)
 - [브릿지 패턴](./01%20디자인%20패턴/BridgePattern.md)
 - [퍼사드 패턴](./01%20디자인%20패턴/FacadePattern.md)
-- 프록시 패턴과 프록시 서버
-- 중재자 패턴
-- 데코레이터 패턴
-- 커맨드 패턴
+- [프록시 패턴과 프록시 서버](./01%20디자인%20패턴/ProxyPattern.md)
+- [중재자 패턴](./01%20디자인%20패턴/MediatorPattern.md)
+- [데코레이터 패턴](./01%20디자인%20패턴/DecoratorPattern.md)
+- [커맨드 패턴](./01%20디자인%20패턴/CommandPattern.md)
 - [이터레이터 패턴](./01%20디자인%20패턴/IteratorPattern.md)
 - [노출모듈 패턴](./01%20디자인%20패턴/RevealingModulePattern.md)
 - [어댑터 패턴](./01%20디자인%20패턴/AdapterPattern.md)
