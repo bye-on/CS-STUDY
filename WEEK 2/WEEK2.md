@@ -44,13 +44,20 @@
 
 ## HTTP
 
-- HTTP/1.0
+- [HTTP/1.0](./05%20HTTP/HTTP10.md)
 
-- HTTP/1.1
+- [HTTP/1.1](./05%20HTTP/HTTP11.md)
 
-- HTTP/2
+- [HTTP/2](./05%20HTTP/HTTP20.md)
 
 - HTTPS
 
 - HTTP/3
 
+- [Rest(ful) API](./05%20HTTP/REST(ful)API.md) 
+
+- [Soap API VS Rest API](./05%20HTTP/SoAP%20Vs%20RestAPI.md)
+
+- [요청 응답 방식 & HTTP 요청 방식](./05%20HTTP/요청%20응답%20방식%20&%20HTTP%20요청%20방식.md)
+
+- [쿠키 & 세션 & 캐시](./05%20HTTP/쿠키%20&%20세션%20&%20캐시.md)
