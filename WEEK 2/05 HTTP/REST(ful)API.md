@@ -30,7 +30,7 @@ Rest? Restful? Restful API?
 
 </aside>
 
-[요청/ 응답 방식 & HTTP 요청 방식](%EC%9A%94%EC%B2%AD%20%EC%9D%91%EB%8B%B5%20%EB%B0%A9%EC%8B%9D%20&%20HTTP%20%EC%9A%94%EC%B2%AD%20%EB%B0%A9%EC%8B%9D%202a51b16048c28062ae2bceaabf2b2bc5.md) 
+[요청/ 응답 방식 & HTTP 요청 방식](./05%20HTTP/요청%20응답%20방식%20&%20HTTP%20요청%20방식.md)
 
 ### Rest API 설계 규칙
 
