@@ -52,9 +52,9 @@
 
 - [HTTP/2](./05%20HTTP/HTTP20.md)
 
-- HTTPS
+- [HTTPS](./05%20HTTP/HTTPS.md)
 
-- HTTP/3
+- [HTTP/3](./05%20HTTP/HTTP3.md)
 
 - [Rest(ful) API](<./05%20HTTP/REST(ful)API.md>)
 
